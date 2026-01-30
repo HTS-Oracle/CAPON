@@ -74,7 +74,7 @@ pip install vina
 ### Running the Application
 
 ```bash
-streamlit run enhanced_pdb_analyzer.py
+streamlit run AtlasNMR.py
 ```
 
 The application will open in your default web browser at `http://localhost:8501`
