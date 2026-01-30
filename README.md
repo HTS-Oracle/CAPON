@@ -190,7 +190,7 @@ pip install biopython
 **4. Streamlit Not Opening**
 ```bash
 # Check if port 8501 is available
-streamlit run enhanced_pdb_analyzer.py --server.port 8502
+streamlit run AtlasNMR.py --server.port 8502
 ```
 
 ## 📖 Citation
